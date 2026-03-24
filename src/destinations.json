@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Australien",
+    "flag": "🇦🇺",
+    "budget": "Hoch",
+    "language": "Englisch",
+    "description": "Perfekt für Roadtrips, Surfen und das ultimative Abenteuer im Outback."
+  },
+  {
+    "id": 2,
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "budget": "Günstig",
+    "language": "Thailändisch",
+    "description": "Wunderschöne Inseln, Tempel und das beste Streetfood der Welt."
+  },
+  {
+    "id": 3,
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "budget": "Mittel",
+    "language": "Portugiesisch",
+    "description": "Tolle Küsten zum Surfen, historische Städte und eine sehr entspannte Atmosphäre."
+  },
+  {
+    "id": 4,
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "budget": "Günstig",
+    "language": "Vietnamesisch",
+    "description": "Atemberaubende Landschaften wie die Ha Long Bucht und eine faszinierende Kultur."
+  },
+  {
+    "id": 5,
+    "name": "Kanada",
+    "flag": "🇨🇦",
+    "budget": "Hoch",
+    "language": "Englisch",
+    "description": "Ein Paradies für Outdoor-Fans: Riesige Nationalparks, Berge und kristallklare Seen."
+  },
+  {
+    "id": 6,
+    "name": "Spanien",
+    "flag": "🇪🇸",
+    "budget": "Mittel",
+    "language": "Spanisch",
+    "description": "Lebendige Städte, fantastische Tapas und Sonne pur an den Stränden der Costa Brava."
+  },
+  {
+    "id": 7,
+    "name": "Neuseeland",
+    "flag": "🇳🇿",
+    "budget": "Hoch",
+    "language": "Englisch",
+    "description": "Die Heimat von Mittelerde – dramatische Natur, Fjorde und ideal für Van-Life."
+  },
+  {
+    "id": 8,
+    "name": "Bali (Indonesien)",
+    "flag": "🇮🇩",
+    "budget": "Günstig",
+    "language": "Indonesisch",
+    "description": "Spirituelle Tempel, grüne Reisterrassen und eine riesige digitale Nomaden-Szene."
+  },
+  {
+    "id": 9,
+    "name": "Mexiko",
+    "flag": "🇲🇽",
+    "budget": "Mittel",
+    "language": "Spanisch",
+    "description": "Weiße Karibikstrände, antike Maya-Ruinen und eine unglaubliche Lebensfreude."
+  }
+]
