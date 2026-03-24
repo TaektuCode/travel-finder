@@ -1,74 +1,74 @@
 [
   {
     "id": 1,
-    "name": "Australien",
+    "name": "Australia",
     "flag": "🇦🇺",
-    "budget": "Hoch",
-    "language": "Englisch",
-    "description": "Perfekt für Roadtrips, Surfen und das ultimative Abenteuer im Outback."
+    "budget": "High",
+    "language": "English",
+    "description": "Perfect for road trips, surfing, and the ultimate adventure in the Outback."
   },
   {
     "id": 2,
     "name": "Thailand",
     "flag": "🇹🇭",
-    "budget": "Günstig",
-    "language": "Thailändisch",
-    "description": "Wunderschöne Inseln, Tempel und das beste Streetfood der Welt."
+    "budget": "Low",
+    "language": "Thai",
+    "description": "Stunning islands, ornate temples, and some of the best street food in the world."
   },
   {
     "id": 3,
     "name": "Portugal",
     "flag": "🇵🇹",
-    "budget": "Mittel",
-    "language": "Portugiesisch",
-    "description": "Tolle Küsten zum Surfen, historische Städte und eine sehr entspannte Atmosphäre."
+    "budget": "Medium",
+    "language": "Portuguese",
+    "description": "Amazing surfing coastlines, historic cities, and a very laid-back atmosphere."
   },
   {
     "id": 4,
     "name": "Vietnam",
     "flag": "🇻🇳",
-    "budget": "Günstig",
-    "language": "Vietnamesisch",
-    "description": "Atemberaubende Landschaften wie die Ha Long Bucht und eine faszinierende Kultur."
+    "budget": "Low",
+    "language": "Vietnamese",
+    "description": "Breathtaking landscapes like Ha Long Bay and a deeply fascinating culture."
   },
   {
     "id": 5,
-    "name": "Kanada",
+    "name": "Canada",
     "flag": "🇨🇦",
-    "budget": "Hoch",
-    "language": "Englisch",
-    "description": "Ein Paradies für Outdoor-Fans: Riesige Nationalparks, Berge und kristallklare Seen."
+    "budget": "High",
+    "language": "English",
+    "description": "A paradise for outdoor enthusiasts: vast national parks, mountains, and crystal-clear lakes."
   },
   {
     "id": 6,
-    "name": "Spanien",
+    "name": "Spain",
     "flag": "🇪🇸",
-    "budget": "Mittel",
-    "language": "Spanisch",
-    "description": "Lebendige Städte, fantastische Tapas und Sonne pur an den Stränden der Costa Brava."
+    "budget": "Medium",
+    "language": "Spanish",
+    "description": "Vibrant cities, fantastic tapas, and endless sunshine along the Costa Brava."
   },
   {
     "id": 7,
-    "name": "Neuseeland",
+    "name": "New Zealand",
     "flag": "🇳🇿",
-    "budget": "Hoch",
-    "language": "Englisch",
-    "description": "Die Heimat von Mittelerde – dramatische Natur, Fjorde und ideal für Van-Life."
+    "budget": "High",
+    "language": "English",
+    "description": "The home of Middle-earth – dramatic nature, fjords, and perfect for van life."
   },
   {
     "id": 8,
-    "name": "Bali (Indonesien)",
+    "name": "Bali (Indonesia)",
     "flag": "🇮🇩",
-    "budget": "Günstig",
-    "language": "Indonesisch",
-    "description": "Spirituelle Tempel, grüne Reisterrassen und eine riesige digitale Nomaden-Szene."
+    "budget": "Low",
+    "language": "Indonesian",
+    "description": "Spiritual temples, lush rice terraces, and a huge digital nomad community."
   },
   {
     "id": 9,
-    "name": "Mexiko",
+    "name": "Mexico",
     "flag": "🇲🇽",
-    "budget": "Mittel",
-    "language": "Spanisch",
-    "description": "Weiße Karibikstrände, antike Maya-Ruinen und eine unglaubliche Lebensfreude."
+    "budget": "Medium",
+    "language": "Spanish",
+    "description": "White Caribbean beaches, ancient Maya ruins, and an incredible zest for life."
   }
 ]

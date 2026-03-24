@@ -5,7 +5,7 @@ export default function Header() {
                 🌍 Travel<span className="text-blue-600">-Finder</span>
             </h1>
             <button className="bg-slate-900 text-white px-5 py-2 rounded-full text-sm font-medium hover:bg-slate-800 transition-colors">
-                Mein Profil
+                My Profile
             </button>
         </header>
     );
